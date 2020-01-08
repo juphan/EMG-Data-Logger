@@ -1,0 +1,29 @@
+C:\Users\JLP\Documents\Visual Studio 2017\Projects\EMG_Logger\EMG_Logger\EMG_Logger\bin\Debug\EMG_Logger.exe.config
+C:\Users\JLP\Documents\Visual Studio 2017\Projects\EMG_Logger\EMG_Logger\EMG_Logger\bin\Debug\EMG_Logger.exe
+C:\Users\JLP\Documents\Visual Studio 2017\Projects\EMG_Logger\EMG_Logger\EMG_Logger\bin\Debug\EMG_Logger.pdb
+C:\Users\JLP\Documents\Visual Studio 2017\Projects\EMG_Logger\EMG_Logger\EMG_Logger\obj\Debug\EMG_Logger.csprojAssemblyReference.cache
+C:\Users\JLP\Documents\Visual Studio 2017\Projects\EMG_Logger\EMG_Logger\EMG_Logger\obj\Debug\EMG_Logger.Form1.resources
+C:\Users\JLP\Documents\Visual Studio 2017\Projects\EMG_Logger\EMG_Logger\EMG_Logger\obj\Debug\EMG_Logger.Properties.Resources.resources
+C:\Users\JLP\Documents\Visual Studio 2017\Projects\EMG_Logger\EMG_Logger\EMG_Logger\obj\Debug\EMG_Logger.csproj.GenerateResource.cache
+C:\Users\JLP\Documents\Visual Studio 2017\Projects\EMG_Logger\EMG_Logger\EMG_Logger\obj\Debug\EMG_Logger.csproj.CoreCompileInputs.cache
+C:\Users\JLP\Documents\Visual Studio 2017\Projects\EMG_Logger\EMG_Logger\EMG_Logger\obj\Debug\EMG_Logger.exe
+C:\Users\JLP\Documents\Visual Studio 2017\Projects\EMG_Logger\EMG_Logger\EMG_Logger\obj\Debug\EMG_Logger.pdb
+C:\Users\JLP\Documents\Visual Studio 2017\Projects\EMG_Logger_Timer\EMG_Logger\bin\Debug\EMG_Logger.exe.config
+C:\Users\JLP\Documents\Visual Studio 2017\Projects\EMG_Logger_Timer\EMG_Logger\bin\Debug\EMG_Logger.exe
+C:\Users\JLP\Documents\Visual Studio 2017\Projects\EMG_Logger_Timer\EMG_Logger\bin\Debug\EMG_Logger.pdb
+C:\Users\JLP\Documents\Visual Studio 2017\Projects\EMG_Logger_Timer\EMG_Logger\obj\Debug\EMG_Logger.csprojAssemblyReference.cache
+C:\Users\JLP\Documents\Visual Studio 2017\Projects\EMG_Logger_Timer\EMG_Logger\obj\Debug\EMG_Logger.Form1.resources
+C:\Users\JLP\Documents\Visual Studio 2017\Projects\EMG_Logger_Timer\EMG_Logger\obj\Debug\EMG_Logger.Properties.Resources.resources
+C:\Users\JLP\Documents\Visual Studio 2017\Projects\EMG_Logger_Timer\EMG_Logger\obj\Debug\EMG_Logger.csproj.GenerateResource.cache
+C:\Users\JLP\Documents\Visual Studio 2017\Projects\EMG_Logger_Timer\EMG_Logger\obj\Debug\EMG_Logger.csproj.CoreCompileInputs.cache
+C:\Users\JLP\Documents\Visual Studio 2017\Projects\EMG_Logger_Timer\EMG_Logger\obj\Debug\EMG_Logger.exe
+C:\Users\JLP\Documents\Visual Studio 2017\Projects\EMG_Logger_Timer\EMG_Logger\obj\Debug\EMG_Logger.pdb
+F:\ENGR 696_697\MS Visual Studio\EMG_Logger_Timer\EMG_Logger\bin\Debug\EMG_Logger.exe.config
+F:\ENGR 696_697\MS Visual Studio\EMG_Logger_Timer\EMG_Logger\bin\Debug\EMG_Logger.exe
+F:\ENGR 696_697\MS Visual Studio\EMG_Logger_Timer\EMG_Logger\bin\Debug\EMG_Logger.pdb
+F:\ENGR 696_697\MS Visual Studio\EMG_Logger_Timer\EMG_Logger\obj\Debug\EMG_Logger.csprojAssemblyReference.cache
+F:\ENGR 696_697\MS Visual Studio\EMG_Logger_Timer\EMG_Logger\obj\Debug\EMG_Logger.Form1.resources
+F:\ENGR 696_697\MS Visual Studio\EMG_Logger_Timer\EMG_Logger\obj\Debug\EMG_Logger.Properties.Resources.resources
+F:\ENGR 696_697\MS Visual Studio\EMG_Logger_Timer\EMG_Logger\obj\Debug\EMG_Logger.csproj.GenerateResource.cache
+F:\ENGR 696_697\MS Visual Studio\EMG_Logger_Timer\EMG_Logger\obj\Debug\EMG_Logger.exe
+F:\ENGR 696_697\MS Visual Studio\EMG_Logger_Timer\EMG_Logger\obj\Debug\EMG_Logger.pdb
