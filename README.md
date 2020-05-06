@@ -24,4 +24,4 @@ Currently defined recording routine:
 4) Repeat step 3 for every gesture in your gesture list, with no breaks in between
 5) Stop recording (Press "Stop Logging" button)
 6) Check your Excel file and fill-in any gaps in the first row of data with random numbers  
-   If you are performing 5 gestures, the recording session should last 00:02:15
+   If you are performing 7 gestures, the recording session should last 00:03:05
