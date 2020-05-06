@@ -1,12 +1,12 @@
 # Microsoft Visual Studios App for Data Collection
 A MS Visual Studios project written in C#. The program is run on a PC and is able to connect to an external device through a serial port. The purpose of this project is to capture incoming EMG data being sent by a microcontroller and then save that data for later analysis in MATLAB. This project is related to the "MyoWare" project. 
 
-An upgraded version of this project was developed by Glaze Bongcaron for a Senior Design project. The application has had several features added, including a textbox which can capture and display real-time serial data from a connected COM port and a feature that allows captured serial data to be sent through a separate serial port. The updated project can be found here: https://github.com/GLAMARIEB/EMG-Data-Logger-master.
-
 - Windows app that allows you to capture data that's being sent from the Tiva Launchpad
 - Records all incoming data into an Excel file for later analysis
 - Make sure the Tiva is connected and powered before you start the app
 - Make sure there is a folder named "DataSync_JP" on your Desktop, otherwise it crashes the app. You can change the required folder name by modifying the code.
+
+An upgraded version of this project was developed by Glaze Bongcaron for a Senior Design project. The application has had several features added, including a textbox which can capture and display real-time serial data from a connected COM port and a feature that allows captured serial data to be sent through a separate serial port. The updated project can be found here: https://github.com/GLAMARIEB/EMG-Data-Logger-master.
 
 Instructions:
 1) Select an available COM port
